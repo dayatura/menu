@@ -4,6 +4,7 @@ Martabak	20
 Nachos		20
 Roti Cane	20
 Spaghetti	23
+Dadar		15
 
 Minuman
 -------------
