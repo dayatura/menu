@@ -8,7 +8,6 @@ Spaghetti	23
 Minuman
 -------------
 Cappuchino	27
-Moccachino	27
 Espresso	15
 Machiato	24
 Americano	20
