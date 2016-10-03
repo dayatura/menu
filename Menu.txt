@@ -11,3 +11,4 @@ Cappuchino	27
 Espresso	15
 Machiato	24
 Americano	20
+Teh Tarik	15
